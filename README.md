@@ -1,6 +1,6 @@
 # Voltmeter-Clock
 
-##Parts
+## Parts
 - 1 x 5V analog voltmeter
 - 1 x Arduino nano
 - 1 x RTC DS3231
