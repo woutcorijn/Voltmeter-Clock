@@ -1,6 +1,8 @@
 # Voltmeter-Clock
 
-A clock made with an analog voltmeter controlled by an Arduino nano. The switch controls three different light modes.
+A clock made with an analog voltmeter controlled by an Arduino nano.<br>
+The switch controls three different light modes.<br>
+
 <img src="https://raw.githubusercontent.com/woutcorijn/Voltmeter-Clock/master/Images/Voltmeter_Clock_1.jpg" width="50%">
 
 ## Parts
