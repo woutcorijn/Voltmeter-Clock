@@ -9,6 +9,7 @@ The switch controls three different light modes.<br>
 <img src="https://raw.githubusercontent.com/woutcorijn/Voltmeter-Clock/master/Images/Voltmeter_Clock_schematic.jpg" width="80%">
 
 <h2>Parts</h2>
+
 - 1 x 5V Analog voltmeter
 - 1 x Arduino nano
 - 1 x RTC DS3231
